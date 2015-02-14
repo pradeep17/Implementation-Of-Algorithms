@@ -1,0 +1,11 @@
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\Knapsack01DP\bin\Debug\Knapsack01DP.exe.config
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\Knapsack01DP\bin\Debug\Knapsack01DP.exe
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\Knapsack01DP\bin\Debug\Knapsack01DP.pdb
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\Knapsack01DP\obj\Debug\Knapsack01DP.csprojResolveAssemblyReference.cache
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\Knapsack01DP\obj\Debug\Knapsack01DP.exe
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\Knapsack01DP\obj\Debug\Knapsack01DP.pdb
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Knapsack01DP\bin\Debug\Knapsack01DP.exe.config
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Knapsack01DP\bin\Debug\Knapsack01DP.exe
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Knapsack01DP\bin\Debug\Knapsack01DP.pdb
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Knapsack01DP\obj\Debug\Knapsack01DP.exe
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Knapsack01DP\obj\Debug\Knapsack01DP.pdb

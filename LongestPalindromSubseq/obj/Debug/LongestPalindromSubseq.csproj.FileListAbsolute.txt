@@ -1,0 +1,5 @@
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\LongestPalindromSubseq\bin\Debug\LongestPalindromSubseq.exe.config
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\LongestPalindromSubseq\bin\Debug\LongestPalindromSubseq.exe
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\LongestPalindromSubseq\bin\Debug\LongestPalindromSubseq.pdb
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\LongestPalindromSubseq\obj\Debug\LongestPalindromSubseq.exe
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\LongestPalindromSubseq\obj\Debug\LongestPalindromSubseq.pdb

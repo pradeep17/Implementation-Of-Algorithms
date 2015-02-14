@@ -1,0 +1,5 @@
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\lambda\bin\Release\lambda.exe.config
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\lambda\bin\Release\lambda.exe
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\lambda\bin\Release\lambda.pdb
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\lambda\obj\Release\lambda.exe
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\lambda\obj\Release\lambda.pdb

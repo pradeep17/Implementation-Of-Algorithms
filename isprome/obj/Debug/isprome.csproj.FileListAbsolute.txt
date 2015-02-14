@@ -1,0 +1,6 @@
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\isprome\bin\Debug\isprome.exe.config
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\isprome\bin\Debug\isprome.exe
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\isprome\bin\Debug\isprome.pdb
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\isprome\obj\Debug\isprome.csprojResolveAssemblyReference.cache
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\isprome\obj\Debug\isprome.exe
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\isprome\obj\Debug\isprome.pdb

@@ -1,0 +1,12 @@
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\Compares\bin\Debug\Compares.exe.config
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\Compares\bin\Debug\Compares.exe
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\Compares\bin\Debug\Compares.pdb
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\Compares\obj\Debug\Compares.csprojResolveAssemblyReference.cache
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\Compares\obj\Debug\Compares.exe
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\Compares\obj\Debug\Compares.pdb
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Compares\bin\Debug\Compares.exe.config
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Compares\bin\Debug\Compares.exe
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Compares\bin\Debug\Compares.pdb
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Compares\obj\Debug\Compares.csprojResolveAssemblyReference.cache
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Compares\obj\Debug\Compares.exe
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Compares\obj\Debug\Compares.pdb

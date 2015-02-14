@@ -1,0 +1,6 @@
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\xmlreaderwriter\bin\Debug\xmlreaderwriter.exe.config
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\xmlreaderwriter\bin\Debug\xmlreaderwriter.exe
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\xmlreaderwriter\bin\Debug\xmlreaderwriter.pdb
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\xmlreaderwriter\obj\Debug\xmlreaderwriter.csprojResolveAssemblyReference.cache
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\xmlreaderwriter\obj\Debug\xmlreaderwriter.exe
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\xmlreaderwriter\obj\Debug\xmlreaderwriter.pdb

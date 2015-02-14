@@ -1,0 +1,11 @@
+c:\users\ap\documents\visual studio 2012\Projects\AlgorithmsImplementation\CountInversions\bin\Debug\CountInversions.exe.config
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\CountInversions\bin\Debug\CountInversions.exe
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\CountInversions\bin\Debug\CountInversions.pdb
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\CountInversions\obj\Debug\CountInversions.csprojResolveAssemblyReference.cache
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\CountInversions\obj\Debug\CountInversions.exe
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\CountInversions\obj\Debug\CountInversions.pdb
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\CountInversions\bin\Debug\CountInversions.exe.config
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\CountInversions\bin\Debug\CountInversions.exe
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\CountInversions\bin\Debug\CountInversions.pdb
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\CountInversions\obj\Debug\CountInversions.exe
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\CountInversions\obj\Debug\CountInversions.pdb

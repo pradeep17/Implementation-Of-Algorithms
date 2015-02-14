@@ -1,0 +1,12 @@
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\stringperm\bin\Debug\stringperm.exe.config
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\stringperm\obj\Debug\stringperm.csprojResolveAssemblyReference.cache
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\stringperm\bin\Debug\stringperm.exe
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\stringperm\bin\Debug\stringperm.pdb
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\stringperm\obj\Debug\stringperm.exe
+C:\Users\Ap\Documents\Visual Studio 2012\Projects\AlgorithmsImplementation\stringperm\obj\Debug\stringperm.pdb
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\stringperm\bin\Debug\stringperm.exe.config
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\stringperm\bin\Debug\stringperm.exe
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\stringperm\bin\Debug\stringperm.pdb
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\stringperm\obj\Debug\stringperm.exe
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\stringperm\obj\Debug\stringperm.pdb
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\stringperm\obj\Debug\stringperm.csprojResolveAssemblyReference.cache

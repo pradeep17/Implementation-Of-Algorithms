@@ -1,0 +1,6 @@
+c:\users\ap\documents\visual studio 2012\Projects\TreeTest\TreeTest\bin\Debug\TreeTest.exe.config
+c:\users\ap\documents\visual studio 2012\Projects\TreeTest\TreeTest\obj\Debug\TreeTest.csprojResolveAssemblyReference.cache
+c:\users\ap\documents\visual studio 2012\Projects\TreeTest\TreeTest\bin\Debug\TreeTest.exe
+c:\users\ap\documents\visual studio 2012\Projects\TreeTest\TreeTest\bin\Debug\TreeTest.pdb
+c:\users\ap\documents\visual studio 2012\Projects\TreeTest\TreeTest\obj\Debug\TreeTest.exe
+c:\users\ap\documents\visual studio 2012\Projects\TreeTest\TreeTest\obj\Debug\TreeTest.pdb

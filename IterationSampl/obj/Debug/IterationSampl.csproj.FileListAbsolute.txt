@@ -1,0 +1,6 @@
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\IterationSampl\bin\IterationSampl.dll.config
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\IterationSampl\bin\IterationSampl.dll
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\IterationSampl\bin\IterationSampl.pdb
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\IterationSampl\obj\Debug\IterationSampl.csprojResolveAssemblyReference.cache
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\IterationSampl\obj\Debug\IterationSampl.dll
+C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\IterationSampl\obj\Debug\IterationSampl.pdb
