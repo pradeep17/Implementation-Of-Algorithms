@@ -10,7 +10,7 @@ namespace ReferenceType
     {
         void changearray(string a)
         {
-            string b = "changed";
+           
             a.Reverse();
             foreach (var item in a)
             {

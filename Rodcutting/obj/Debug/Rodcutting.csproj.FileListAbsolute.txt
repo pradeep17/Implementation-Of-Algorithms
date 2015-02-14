@@ -10,3 +10,9 @@ C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Rodcu
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Rodcutting\obj\Debug\Rodcutting.csprojResolveAssemblyReference.cache
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Rodcutting\obj\Debug\Rodcutting.exe
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Rodcutting\obj\Debug\Rodcutting.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\Rodcutting\bin\Debug\Rodcutting.exe.config
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\Rodcutting\bin\Debug\Rodcutting.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\Rodcutting\bin\Debug\Rodcutting.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\Rodcutting\obj\Debug\Rodcutting.csprojResolveAssemblyReference.cache
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\Rodcutting\obj\Debug\Rodcutting.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\Rodcutting\obj\Debug\Rodcutting.pdb

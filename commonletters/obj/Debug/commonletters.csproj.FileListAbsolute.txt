@@ -4,3 +4,9 @@ C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\commo
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\commonletters\obj\Debug\commonletters.csprojResolveAssemblyReference.cache
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\commonletters\obj\Debug\commonletters.exe
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\commonletters\obj\Debug\commonletters.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\commonletters\bin\Debug\commonletters.exe.config
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\commonletters\obj\Debug\commonletters.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\commonletters\obj\Debug\commonletters.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\commonletters\bin\Debug\commonletters.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\commonletters\bin\Debug\commonletters.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\commonletters\obj\Debug\commonletters.csprojResolveAssemblyReference.cache

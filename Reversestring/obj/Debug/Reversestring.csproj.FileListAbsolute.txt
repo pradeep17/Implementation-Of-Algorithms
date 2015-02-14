@@ -3,3 +3,9 @@ C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Rever
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Reversestring\bin\Debug\Reversestring.pdb
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Reversestring\obj\Debug\Reversestring.exe
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Reversestring\obj\Debug\Reversestring.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\Reversestring\bin\Debug\Reversestring.exe.config
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\Reversestring\bin\Debug\Reversestring.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\Reversestring\bin\Debug\Reversestring.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\Reversestring\obj\Debug\Reversestring.csprojResolveAssemblyReference.cache
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\Reversestring\obj\Debug\Reversestring.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\Reversestring\obj\Debug\Reversestring.pdb

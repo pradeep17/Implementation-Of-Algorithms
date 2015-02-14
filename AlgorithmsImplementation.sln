@@ -27,7 +27,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lambda", "lambda\lambda.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMM", "HMM\HMM.csproj", "{F7528734-99D7-4F40-953C-81F4C7D3507E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "commonletters", "commonletters\commonletters.csproj", "{FC35B081-D7C2-4A9D-99AC-1C4DF61F4861}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReverse", "commonletters\StringReverse.csproj", "{FC35B081-D7C2-4A9D-99AC-1C4DF61F4861}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPalindromSubseq", "LongestPalindromSubseq\LongestPalindromSubseq.csproj", "{CE8483F4-5393-44BC-97A1-7347FA831C0A}"
 EndProject
@@ -41,7 +41,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceType", "ReferenceT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xmlreaderwriter", "xmlreaderwriter\xmlreaderwriter.csproj", "{1A06982B-3975-4AB6-BB91-1773172469AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isprome", "isprome\isprome.csproj", "{111C63FE-95B1-4341-BB82-0191BCB99246}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isprime", "isprome\isprime.csproj", "{111C63FE-95B1-4341-BB82-0191BCB99246}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

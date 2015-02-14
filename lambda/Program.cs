@@ -14,7 +14,7 @@ namespace lambda
             Countit del = c => c + 5;
             int result = del(25);
             Console.WriteLine(result);
-            string filepath = @"C:\haris\sadees";
+            
            
         }
     }

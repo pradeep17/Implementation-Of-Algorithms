@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace commonletters
+namespace StringReverse
 {
     class Program
     {
@@ -13,11 +13,10 @@ namespace commonletters
             List<string> result = new List<string>();
             string[] s1arr = s1.Split();
             string[] s2arr = s2.Split();
-            //HashSet<char> s1unique = new HashSet<char>(s1arr);
-            //HashSet<char> s2unique = new HashSet<char>(s2arr);
-            result.AddRange(s1arr.Where(r => s2arr.Any(l => l.StartsWith(r))));
-            // var unique= s1unique.Intersect<char>(s2unique);
-
+            //lambda expression for string reverse
+            result.AddRange(s1arr.Where(stringrev => s2arr.Any(t => t.StartsWith(stringrev))));
+         
+            //print reversed string
             foreach (var item in result)
             {
                 Console.WriteLine(item.ToString());
@@ -49,10 +48,7 @@ namespace commonletters
 
             string s3 = reverse(s1);
             Console.WriteLine(s3);
-            string s = "new";
             
-            int value = s[3];
-            Console.WriteLine(value);
             Console.ReadKey();
         }
 

@@ -3,3 +3,8 @@ C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Itera
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\IterationSample\bin\Debug\IterationSample.pdb
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\IterationSample\obj\Debug\IterationSample.exe
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\IterationSample\obj\Debug\IterationSample.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\IterationSample\bin\Debug\IterationSample.exe.config
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\IterationSample\bin\Debug\IterationSample.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\IterationSample\bin\Debug\IterationSample.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\IterationSample\obj\Debug\IterationSample.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\IterationSample\obj\Debug\IterationSample.pdb

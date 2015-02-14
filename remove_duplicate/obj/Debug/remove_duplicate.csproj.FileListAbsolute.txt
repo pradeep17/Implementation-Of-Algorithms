@@ -9,3 +9,9 @@ C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\remov
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\remove_duplicate\bin\Debug\remove_duplicate.pdb
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\remove_duplicate\obj\Debug\remove_duplicate.exe
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\remove_duplicate\obj\Debug\remove_duplicate.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\remove_duplicate\bin\Debug\remove_duplicate.exe.config
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\remove_duplicate\bin\Debug\remove_duplicate.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\remove_duplicate\bin\Debug\remove_duplicate.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\remove_duplicate\obj\Debug\remove_duplicate.csprojResolveAssemblyReference.cache
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\remove_duplicate\obj\Debug\remove_duplicate.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\remove_duplicate\obj\Debug\remove_duplicate.pdb

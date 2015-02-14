@@ -3,3 +3,9 @@ C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\HMM\b
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\HMM\bin\Debug\HMM.pdb
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\HMM\obj\Debug\HMM.exe
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\HMM\obj\Debug\HMM.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\HMM\bin\Debug\HMM.exe.config
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\HMM\bin\Debug\HMM.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\HMM\bin\Debug\HMM.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\HMM\obj\Debug\HMM.csprojResolveAssemblyReference.cache
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\HMM\obj\Debug\HMM.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\HMM\obj\Debug\HMM.pdb

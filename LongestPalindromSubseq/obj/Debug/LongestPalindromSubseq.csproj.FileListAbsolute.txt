@@ -3,3 +3,9 @@ C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Longe
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\LongestPalindromSubseq\bin\Debug\LongestPalindromSubseq.pdb
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\LongestPalindromSubseq\obj\Debug\LongestPalindromSubseq.exe
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\LongestPalindromSubseq\obj\Debug\LongestPalindromSubseq.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\LongestPalindromSubseq\bin\Debug\LongestPalindromSubseq.exe.config
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\LongestPalindromSubseq\bin\Debug\LongestPalindromSubseq.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\LongestPalindromSubseq\bin\Debug\LongestPalindromSubseq.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\LongestPalindromSubseq\obj\Debug\LongestPalindromSubseq.csprojResolveAssemblyReference.cache
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\LongestPalindromSubseq\obj\Debug\LongestPalindromSubseq.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\LongestPalindromSubseq\obj\Debug\LongestPalindromSubseq.pdb

@@ -9,3 +9,8 @@ C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Count
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\CountInversions\bin\Debug\CountInversions.pdb
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\CountInversions\obj\Debug\CountInversions.exe
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\CountInversions\obj\Debug\CountInversions.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\CountInversions\bin\Debug\CountInversions.exe.config
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\CountInversions\bin\Debug\CountInversions.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\CountInversions\bin\Debug\CountInversions.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\CountInversions\obj\Debug\CountInversions.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\CountInversions\obj\Debug\CountInversions.pdb

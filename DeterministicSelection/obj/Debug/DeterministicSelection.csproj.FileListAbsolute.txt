@@ -10,3 +10,9 @@ C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Deter
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\DeterministicSelection\obj\Debug\DeterministicSelection.csprojResolveAssemblyReference.cache
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\DeterministicSelection\obj\Debug\DeterministicSelection.exe
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\DeterministicSelection\obj\Debug\DeterministicSelection.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\DeterministicSelection\bin\Debug\DeterministicSelection.exe.config
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\DeterministicSelection\bin\Debug\DeterministicSelection.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\DeterministicSelection\bin\Debug\DeterministicSelection.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\DeterministicSelection\obj\Debug\DeterministicSelection.csprojResolveAssemblyReference.cache
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\DeterministicSelection\obj\Debug\DeterministicSelection.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\DeterministicSelection\obj\Debug\DeterministicSelection.pdb

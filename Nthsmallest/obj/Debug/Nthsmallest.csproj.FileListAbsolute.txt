@@ -10,3 +10,9 @@ C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Nthsm
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Nthsmallest\obj\Debug\Nthsmallest.csprojResolveAssemblyReference.cache
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Nthsmallest\obj\Debug\Nthsmallest.exe
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Nthsmallest\obj\Debug\Nthsmallest.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\Nthsmallest\bin\Debug\Nthsmallest.exe.config
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\Nthsmallest\bin\Debug\Nthsmallest.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\Nthsmallest\bin\Debug\Nthsmallest.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\Nthsmallest\obj\Debug\Nthsmallest.csprojResolveAssemblyReference.cache
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\Nthsmallest\obj\Debug\Nthsmallest.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\Nthsmallest\obj\Debug\Nthsmallest.pdb

@@ -10,3 +10,9 @@ C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\linqt
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\linqt\obj\Debug\linqt.csprojResolveAssemblyReference.cache
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\linqt\obj\Debug\linqt.exe
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\linqt\obj\Debug\linqt.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\linqt\bin\Debug\linqt.exe.config
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\linqt\bin\Debug\linqt.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\linqt\bin\Debug\linqt.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\linqt\obj\Debug\linqt.csprojResolveAssemblyReference.cache
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\linqt\obj\Debug\linqt.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\linqt\obj\Debug\linqt.pdb

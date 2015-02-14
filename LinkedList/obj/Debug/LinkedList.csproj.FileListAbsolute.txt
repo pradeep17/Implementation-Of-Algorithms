@@ -10,3 +10,9 @@ C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Linke
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\LinkedList\obj\Debug\LinkedList.exe
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\LinkedList\obj\Debug\LinkedList.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\LinkedList\obj\Debug\LinkedList.pdb

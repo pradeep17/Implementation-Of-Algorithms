@@ -4,3 +4,9 @@ C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\Refer
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\ReferenceType\obj\Debug\ReferenceType.csprojResolveAssemblyReference.cache
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\ReferenceType\obj\Debug\ReferenceType.exe
 C:\Users\Ap\Documents\Visual Studio 2013\Projects\AlgorithmsImplementation\ReferenceType\obj\Debug\ReferenceType.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\ReferenceType\bin\Debug\ReferenceType.exe.config
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\ReferenceType\bin\Debug\ReferenceType.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\ReferenceType\bin\Debug\ReferenceType.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\ReferenceType\obj\Debug\ReferenceType.csprojResolveAssemblyReference.cache
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\ReferenceType\obj\Debug\ReferenceType.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\ReferenceType\obj\Debug\ReferenceType.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\commonletters\bin\Debug\commonletters.exe.config
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\commonletters\bin\Debug\commonletters.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\commonletters\bin\Debug\commonletters.pdb
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\commonletters\obj\Debug\commonletters.exe
+C:\Users\Ap\Documents\GitHub\Implementation-Of-Algorithms\commonletters\obj\Debug\commonletters.pdb
